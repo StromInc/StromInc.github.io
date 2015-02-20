@@ -1,2 +1,2 @@
-# StromInc.github.io
+# Strom
 Esta sera una pagina para Strom
